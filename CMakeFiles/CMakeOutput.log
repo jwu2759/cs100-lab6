@@ -28,13 +28,13 @@ The CXX compiler identification is GNU, found in "/home/csmajs/rchan123/cs100/la
 Determining if the C compiler works passed with the following output:
 Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_9eab2/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_9eab2.dir/build.make CMakeFiles/cmTC_9eab2.dir/build
+Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_e62ad/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_e62ad.dir/build.make CMakeFiles/cmTC_e62ad.dir/build
 gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_9eab2.dir/testCCompiler.c.o
-/opt/rh/devtoolset-6/root/usr/bin/cc    -o CMakeFiles/cmTC_9eab2.dir/testCCompiler.c.o   -c /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp/testCCompiler.c
-Linking C executable cmTC_9eab2
-/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_9eab2.dir/link.txt --verbose=1
-/opt/rh/devtoolset-6/root/usr/bin/cc      -rdynamic CMakeFiles/cmTC_9eab2.dir/testCCompiler.c.o  -o cmTC_9eab2 
+Building C object CMakeFiles/cmTC_e62ad.dir/testCCompiler.c.o
+/opt/rh/devtoolset-6/root/usr/bin/cc    -o CMakeFiles/cmTC_e62ad.dir/testCCompiler.c.o   -c /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_e62ad
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_e62ad.dir/link.txt --verbose=1
+/opt/rh/devtoolset-6/root/usr/bin/cc      -rdynamic CMakeFiles/cmTC_e62ad.dir/testCCompiler.c.o  -o cmTC_e62ad 
 gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
 
 
@@ -42,18 +42,18 @@ gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions
 Detecting C compiler ABI info compiled with the following output:
 Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_209ec/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_209ec.dir/build.make CMakeFiles/cmTC_209ec.dir/build
+Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_28a01/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_28a01.dir/build.make CMakeFiles/cmTC_28a01.dir/build
 gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o
-/opt/rh/devtoolset-6/root/usr/bin/cc   -v -o CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake3/Modules/CMakeCCompilerABI.c
+Building C object CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o
+/opt/rh/devtoolset-6/root/usr/bin/cc   -v -o CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake3/Modules/CMakeCCompilerABI.c
 Using built-in specs.
 COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/cc
 Target: x86_64-redhat-linux
 Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,lto --prefix=/opt/rh/devtoolset-6/root/usr --mandir=/opt/rh/devtoolset-6/root/usr/share/man --infodir=/opt/rh/devtoolset-6/root/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --enable-plugin --with-linker-hash-style=gnu --enable-initfini-array --disable-libgcj --with-default-libstdcxx-abi=gcc4-compatible --with-isl=/builddir/build/BUILD/gcc-6.3.1-20170216/obj-x86_64-redhat-linux/isl-install --enable-libmpx --enable-gnu-indirect-function --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
 Thread model: posix
 gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
- /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1 -quiet -v /usr/share/cmake3/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc9xTZWq.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1 -quiet -v /usr/share/cmake3/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o -version -o /tmp/ccRX0e3O.s
 GNU C11 (GCC) version 6.3.1 20170216 (Red Hat 6.3.1-3) (x86_64-redhat-linux)
 	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3), GMP version 6.0.0, MPFR version 3.1.1, MPC version 1.0.1, isl version 0.14 or 0.13
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -70,15 +70,15 @@ GNU C11 (GCC) version 6.3.1 20170216 (Red Hat 6.3.1-3) (x86_64-redhat-linux)
 	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3), GMP version 6.0.0, MPFR version 3.1.1, MPC version 1.0.1, isl version 0.14 or 0.13
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: 18ac54e10fc1f4b39548d3adfa3b2617
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
- /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o /tmp/cc9xTZWq.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o /tmp/ccRX0e3O.s
 GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-12.el7.1
 COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
-Linking C executable cmTC_209ec
-/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_209ec.dir/link.txt --verbose=1
-/opt/rh/devtoolset-6/root/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o  -o cmTC_209ec 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_28a01
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_28a01.dir/link.txt --verbose=1
+/opt/rh/devtoolset-6/root/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o  -o cmTC_28a01 
 Using built-in specs.
 COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/cc
 COLLECT_LTO_WRAPPER=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper
@@ -88,9 +88,9 @@ Thread model: posix
 gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) 
 COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_209ec' '-mtune=generic' '-march=x86-64'
- /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cci1nJIk.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_209ec /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_209ec' '-mtune=generic' '-march=x86-64'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_28a01' '-mtune=generic' '-march=x86-64'
+ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cctCJiHU.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_28a01 /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_28a01' '-mtune=generic' '-march=x86-64'
 gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
 
 
@@ -114,18 +114,18 @@ Parsed C implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_209ec/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_209ec.dir/build.make CMakeFiles/cmTC_209ec.dir/build]
+  ignore line: [Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_28a01/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_28a01.dir/build.make CMakeFiles/cmTC_28a01.dir/build]
   ignore line: [gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp']
-  ignore line: [Building C object CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o]
-  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/cc   -v -o CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake3/Modules/CMakeCCompilerABI.c]
+  ignore line: [Building C object CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/cc   -v -o CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o   -c /usr/share/cmake3/Modules/CMakeCCompilerABI.c]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/cc]
   ignore line: [Target: x86_64-redhat-linux]
   ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c c++ fortran lto --prefix=/opt/rh/devtoolset-6/root/usr --mandir=/opt/rh/devtoolset-6/root/usr/share/man --infodir=/opt/rh/devtoolset-6/root/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --enable-plugin --with-linker-hash-style=gnu --enable-initfini-array --disable-libgcj --with-default-libstdcxx-abi=gcc4-compatible --with-isl=/builddir/build/BUILD/gcc-6.3.1-20170216/obj-x86_64-redhat-linux/isl-install --enable-libmpx --enable-gnu-indirect-function --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
   ignore line: [Thread model: posix]
   ignore line: [gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
-  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1 -quiet -v /usr/share/cmake3/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc9xTZWq.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1 -quiet -v /usr/share/cmake3/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o -version -o /tmp/ccRX0e3O.s]
   ignore line: [GNU C11 (GCC) version 6.3.1 20170216 (Red Hat 6.3.1-3) (x86_64-redhat-linux)]
   ignore line: [	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3)  GMP version 6.0.0  MPFR version 3.1.1  MPC version 1.0.1  isl version 0.14 or 0.13]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -142,15 +142,15 @@ Parsed C implicit link information from above output:
   ignore line: [	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3)  GMP version 6.0.0  MPFR version 3.1.1  MPC version 1.0.1  isl version 0.14 or 0.13]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: 18ac54e10fc1f4b39548d3adfa3b2617]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
-  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o /tmp/cc9xTZWq.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o /tmp/ccRX0e3O.s]
   ignore line: [GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-12.el7.1]
   ignore line: [COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
-  ignore line: [Linking C executable cmTC_209ec]
-  ignore line: [/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_209ec.dir/link.txt --verbose=1]
-  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o  -o cmTC_209ec ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_28a01]
+  ignore line: [/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_28a01.dir/link.txt --verbose=1]
+  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/cc     -v -rdynamic CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o  -o cmTC_28a01 ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/cc]
   ignore line: [COLLECT_LTO_WRAPPER=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper]
@@ -160,13 +160,13 @@ Parsed C implicit link information from above output:
   ignore line: [gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) ]
   ignore line: [COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_209ec' '-mtune=generic' '-march=x86-64']
-  link line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cci1nJIk.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_209ec /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_28a01' '-mtune=generic' '-march=x86-64']
+  link line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cctCJiHU.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_28a01 /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o]
     arg [/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cci1nJIk.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cctCJiHU.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -182,7 +182,7 @@ Parsed C implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_209ec] ==> ignore
+    arg [cmTC_28a01] ==> ignore
     arg [/lib/../lib64/crt1.o] ==> ignore
     arg [/lib/../lib64/crti.o] ==> ignore
     arg [/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o] ==> ignore
@@ -191,7 +191,7 @@ Parsed C implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../..] ==> dir [/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../..]
-    arg [CMakeFiles/cmTC_209ec.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [CMakeFiles/cmTC_28a01.dir/CMakeCCompilerABI.c.o] ==> ignore
     arg [-lgcc] ==> lib [gcc]
     arg [--as-needed] ==> ignore
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -216,13 +216,13 @@ Parsed C implicit link information from above output:
 Determining if the CXX compiler works passed with the following output:
 Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_d1559/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_d1559.dir/build.make CMakeFiles/cmTC_d1559.dir/build
+Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_61d66/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_61d66.dir/build.make CMakeFiles/cmTC_61d66.dir/build
 gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_d1559.dir/testCXXCompiler.cxx.o
-/opt/rh/devtoolset-6/root/usr/bin/c++     -o CMakeFiles/cmTC_d1559.dir/testCXXCompiler.cxx.o -c /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
-Linking CXX executable cmTC_d1559
-/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_d1559.dir/link.txt --verbose=1
-/opt/rh/devtoolset-6/root/usr/bin/c++       -rdynamic CMakeFiles/cmTC_d1559.dir/testCXXCompiler.cxx.o  -o cmTC_d1559 
+Building CXX object CMakeFiles/cmTC_61d66.dir/testCXXCompiler.cxx.o
+/opt/rh/devtoolset-6/root/usr/bin/c++     -o CMakeFiles/cmTC_61d66.dir/testCXXCompiler.cxx.o -c /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_61d66
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_61d66.dir/link.txt --verbose=1
+/opt/rh/devtoolset-6/root/usr/bin/c++       -rdynamic CMakeFiles/cmTC_61d66.dir/testCXXCompiler.cxx.o  -o cmTC_61d66 
 gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
 
 
@@ -230,18 +230,18 @@ gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions
 Detecting CXX compiler ABI info compiled with the following output:
 Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_142de/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_142de.dir/build.make CMakeFiles/cmTC_142de.dir/build
+Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_9025a/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_9025a.dir/build.make CMakeFiles/cmTC_9025a.dir/build
 gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
-Building CXX object CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o
-/opt/rh/devtoolset-6/root/usr/bin/c++    -v -o CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp
+Building CXX object CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o
+/opt/rh/devtoolset-6/root/usr/bin/c++    -v -o CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp
 Using built-in specs.
 COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/c++
 Target: x86_64-redhat-linux
 Configured with: ../configure --enable-bootstrap --enable-languages=c,c++,fortran,lto --prefix=/opt/rh/devtoolset-6/root/usr --mandir=/opt/rh/devtoolset-6/root/usr/share/man --infodir=/opt/rh/devtoolset-6/root/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --enable-plugin --with-linker-hash-style=gnu --enable-initfini-array --disable-libgcj --with-default-libstdcxx-abi=gcc4-compatible --with-isl=/builddir/build/BUILD/gcc-6.3.1-20170216/obj-x86_64-redhat-linux/isl-install --enable-libmpx --enable-gnu-indirect-function --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux
 Thread model: posix
 gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) 
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccJzTOOH.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccWNpvFf.s
 GNU C++14 (GCC) version 6.3.1 20170216 (Red Hat 6.3.1-3) (x86_64-redhat-linux)
 	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3), GMP version 6.0.0, MPFR version 3.1.1, MPC version 1.0.1, isl version 0.14 or 0.13
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
@@ -261,15 +261,15 @@ GNU C++14 (GCC) version 6.3.1 20170216 (Red Hat 6.3.1-3) (x86_64-redhat-linux)
 	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3), GMP version 6.0.0, MPFR version 3.1.1, MPC version 1.0.1, isl version 0.14 or 0.13
 GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 Compiler executable checksum: a68b63195c158323cd63fe518b04b091
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccJzTOOH.s
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccWNpvFf.s
 GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-12.el7.1
 COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
-Linking CXX executable cmTC_142de
-/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_142de.dir/link.txt --verbose=1
-/opt/rh/devtoolset-6/root/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_142de 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+Linking CXX executable cmTC_9025a
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_9025a.dir/link.txt --verbose=1
+/opt/rh/devtoolset-6/root/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_9025a 
 Using built-in specs.
 COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/c++
 COLLECT_LTO_WRAPPER=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper
@@ -279,9 +279,9 @@ Thread model: posix
 gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) 
 COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/
 LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_142de' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
- /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cc0Hsd7I.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_142de /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o
-COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_142de' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_9025a' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cc1kkm2k.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_9025a /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_9025a' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
 gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
 
 
@@ -311,18 +311,18 @@ Parsed CXX implicit link information from above output:
   link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
   ignore line: [Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp]
   ignore line: []
-  ignore line: [Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_142de/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_142de.dir/build.make CMakeFiles/cmTC_142de.dir/build]
+  ignore line: [Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_9025a/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_9025a.dir/build.make CMakeFiles/cmTC_9025a.dir/build]
   ignore line: [gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp']
-  ignore line: [Building CXX object CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o]
-  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/c++    -v -o CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Building CXX object CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/c++    -v -o CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/c++]
   ignore line: [Target: x86_64-redhat-linux]
   ignore line: [Configured with: ../configure --enable-bootstrap --enable-languages=c c++ fortran lto --prefix=/opt/rh/devtoolset-6/root/usr --mandir=/opt/rh/devtoolset-6/root/usr/share/man --infodir=/opt/rh/devtoolset-6/root/usr/share/info --with-bugurl=http://bugzilla.redhat.com/bugzilla --enable-shared --enable-threads=posix --enable-checking=release --enable-multilib --with-system-zlib --enable-__cxa_atexit --disable-libunwind-exceptions --enable-gnu-unique-object --enable-linker-build-id --enable-plugin --with-linker-hash-style=gnu --enable-initfini-array --disable-libgcj --with-default-libstdcxx-abi=gcc4-compatible --with-isl=/builddir/build/BUILD/gcc-6.3.1-20170216/obj-x86_64-redhat-linux/isl-install --enable-libmpx --enable-gnu-indirect-function --with-tune=generic --with-arch_32=i686 --build=x86_64-redhat-linux]
   ignore line: [Thread model: posix]
   ignore line: [gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) ]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccJzTOOH.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/cc1plus -quiet -v -D_GNU_SOURCE /usr/share/cmake3/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccWNpvFf.s]
   ignore line: [GNU C++14 (GCC) version 6.3.1 20170216 (Red Hat 6.3.1-3) (x86_64-redhat-linux)]
   ignore line: [	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3)  GMP version 6.0.0  MPFR version 3.1.1  MPC version 1.0.1  isl version 0.14 or 0.13]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
@@ -342,15 +342,15 @@ Parsed CXX implicit link information from above output:
   ignore line: [	compiled by GNU C version 6.3.1 20170216 (Red Hat 6.3.1-3)  GMP version 6.0.0  MPFR version 3.1.1  MPC version 1.0.1  isl version 0.14 or 0.13]
   ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
   ignore line: [Compiler executable checksum: a68b63195c158323cd63fe518b04b091]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccJzTOOH.s]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/as -v --64 -o CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccWNpvFf.s]
   ignore line: [GNU assembler version 2.27 (x86_64-redhat-linux) using BFD version version 2.27-12.el7.1]
   ignore line: [COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  ignore line: [Linking CXX executable cmTC_142de]
-  ignore line: [/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_142de.dir/link.txt --verbose=1]
-  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_142de ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking CXX executable cmTC_9025a]
+  ignore line: [/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_9025a.dir/link.txt --verbose=1]
+  ignore line: [/opt/rh/devtoolset-6/root/usr/bin/c++      -v -rdynamic CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_9025a ]
   ignore line: [Using built-in specs.]
   ignore line: [COLLECT_GCC=/opt/rh/devtoolset-6/root/usr/bin/c++]
   ignore line: [COLLECT_LTO_WRAPPER=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper]
@@ -360,13 +360,13 @@ Parsed CXX implicit link information from above output:
   ignore line: [gcc version 6.3.1 20170216 (Red Hat 6.3.1-3) (GCC) ]
   ignore line: [COMPILER_PATH=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/]
   ignore line: [LIBRARY_PATH=/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64/:/lib/../lib64/:/usr/lib/../lib64/:/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../:/lib/:/usr/lib/]
-  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_142de' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
-  link line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cc0Hsd7I.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_142de /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-rdynamic' '-o' 'cmTC_9025a' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2 -plugin /opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so -plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper -plugin-opt=-fresolution=/tmp/cc1kkm2k.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --no-add-needed --eh-frame-hdr --hash-style=gnu -m elf_x86_64 -export-dynamic -dynamic-linker /lib64/ld-linux-x86-64.so.2 -o cmTC_9025a /lib/../lib64/crt1.o /lib/../lib64/crti.o /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../../../lib64 -L/lib/../lib64 -L/usr/lib/../lib64 -L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../.. CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtend.o /lib/../lib64/crtn.o]
     arg [/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/collect2] ==> ignore
     arg [-plugin] ==> ignore
     arg [/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/liblto_plugin.so] ==> ignore
     arg [-plugin-opt=/opt/rh/devtoolset-6/root/usr/libexec/gcc/x86_64-redhat-linux/6.3.1/lto-wrapper] ==> ignore
-    arg [-plugin-opt=-fresolution=/tmp/cc0Hsd7I.res] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/cc1kkm2k.res] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
     arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
     arg [-plugin-opt=-pass-through=-lc] ==> ignore
@@ -382,7 +382,7 @@ Parsed CXX implicit link information from above output:
     arg [-dynamic-linker] ==> ignore
     arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
     arg [-o] ==> ignore
-    arg [cmTC_142de] ==> ignore
+    arg [cmTC_9025a] ==> ignore
     arg [/lib/../lib64/crt1.o] ==> ignore
     arg [/lib/../lib64/crti.o] ==> ignore
     arg [/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/crtbegin.o] ==> ignore
@@ -391,7 +391,7 @@ Parsed CXX implicit link information from above output:
     arg [-L/lib/../lib64] ==> dir [/lib/../lib64]
     arg [-L/usr/lib/../lib64] ==> dir [/usr/lib/../lib64]
     arg [-L/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../..] ==> dir [/opt/rh/devtoolset-6/root/usr/lib/gcc/x86_64-redhat-linux/6.3.1/../../..]
-    arg [CMakeFiles/cmTC_142de.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [CMakeFiles/cmTC_9025a.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
     arg [-lstdc++] ==> lib [stdc++]
     arg [-lm] ==> lib [m]
     arg [-lgcc_s] ==> lib [gcc_s]
@@ -414,13 +414,13 @@ Parsed CXX implicit link information from above output:
 Determining if the include file pthread.h exists passed with the following output:
 Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_f8a8e/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_f8a8e.dir/build.make CMakeFiles/cmTC_f8a8e.dir/build
+Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_d5115/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_d5115.dir/build.make CMakeFiles/cmTC_d5115.dir/build
 gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_f8a8e.dir/CheckIncludeFile.c.o
-/opt/rh/devtoolset-6/root/usr/bin/cc    -o CMakeFiles/cmTC_f8a8e.dir/CheckIncludeFile.c.o   -c /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp/CheckIncludeFile.c
-Linking C executable cmTC_f8a8e
-/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_f8a8e.dir/link.txt --verbose=1
-/opt/rh/devtoolset-6/root/usr/bin/cc      -rdynamic CMakeFiles/cmTC_f8a8e.dir/CheckIncludeFile.c.o  -o cmTC_f8a8e 
+Building C object CMakeFiles/cmTC_d5115.dir/CheckIncludeFile.c.o
+/opt/rh/devtoolset-6/root/usr/bin/cc    -o CMakeFiles/cmTC_d5115.dir/CheckIncludeFile.c.o   -c /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_d5115
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_d5115.dir/link.txt --verbose=1
+/opt/rh/devtoolset-6/root/usr/bin/cc      -rdynamic CMakeFiles/cmTC_d5115.dir/CheckIncludeFile.c.o  -o cmTC_d5115 
 gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
 
 
@@ -428,13 +428,13 @@ gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions
 Determining if the function pthread_create exists in the pthread passed with the following output:
 Change Dir: /home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp
 
-Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_2453f/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_2453f.dir/build.make CMakeFiles/cmTC_2453f.dir/build
+Run Build Command(s):/opt/rh/devtoolset-6/root/usr/bin/gmake cmTC_6296d/fast && /opt/rh/devtoolset-6/root/usr/bin/gmake  -f CMakeFiles/cmTC_6296d.dir/build.make CMakeFiles/cmTC_6296d.dir/build
 gmake[1]: Entering directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
-Building C object CMakeFiles/cmTC_2453f.dir/CheckFunctionExists.c.o
-/opt/rh/devtoolset-6/root/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_2453f.dir/CheckFunctionExists.c.o   -c /usr/share/cmake3/Modules/CheckFunctionExists.c
-Linking C executable cmTC_2453f
-/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_2453f.dir/link.txt --verbose=1
-/opt/rh/devtoolset-6/root/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_2453f.dir/CheckFunctionExists.c.o  -o cmTC_2453f  -lpthread 
+Building C object CMakeFiles/cmTC_6296d.dir/CheckFunctionExists.c.o
+/opt/rh/devtoolset-6/root/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_6296d.dir/CheckFunctionExists.c.o   -c /usr/share/cmake3/Modules/CheckFunctionExists.c
+Linking C executable cmTC_6296d
+/usr/bin/cmake3 -E cmake_link_script CMakeFiles/cmTC_6296d.dir/link.txt --verbose=1
+/opt/rh/devtoolset-6/root/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_6296d.dir/CheckFunctionExists.c.o  -o cmTC_6296d  -lpthread 
 gmake[1]: Leaving directory '/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134/CMakeFiles/CMakeTmp'
 
 
