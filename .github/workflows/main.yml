@@ -37,6 +37,7 @@ jobs:
      # Makes the test executable, runs it, then deletes the executalbe
       - name: Run Rectangle Tests
         run: |
+                cmake3 .
                 make test
                 ./test
                 rm test
