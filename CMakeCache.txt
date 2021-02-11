@@ -280,7 +280,7 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 INSTALL_GTEST:BOOL=ON
 
 //Value Computed by CMake
-Project_BINARY_DIR:STATIC=/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134
+Project_BINARY_DIR:STATIC=/home/runner/work/lab-06---github-actions-lab6-rchan123-mwu134
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=/home/csmajs/rchan123/cs100/lab-06---github-actions-lab6-rchan123-mwu134
