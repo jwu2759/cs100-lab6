@@ -34,4 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+     # Makes the test executable, runs it, then deletes the executalbe
+      - name: Run Rectangle Tests
+        run: |
+                make test
+                ./test
+                rm test
 
