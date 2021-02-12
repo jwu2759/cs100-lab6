@@ -34,4 +34,25 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+     # Information
+      - name: Where am i?
+        run: pwd
+     # List Contents
+      - name: LS
+        run : ls -a
+     # Add google test
+      - name: Google Test setup
+        run : git clone --recursive https://github.com/google/googletest.git
+     # Add cmake
+      - name: Build makefile
+        run : cmake ./CMakeLists.txt
+     # Build test
+      - name: Build test
+        run : make test
+     # Run test
+      - name: Execute test
+        run : ./test
+     # Remove test
+      - name: Remove test executable
+        run: rm test
 
