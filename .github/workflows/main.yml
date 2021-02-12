@@ -34,7 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-     # Makes the test executable, runs it, then deletes the executalbe
+     # Information
       - name: Where am i?
         run: pwd
+     # List Contents
+      - name: LS
+        run : ls -a
 
