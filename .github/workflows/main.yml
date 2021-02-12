@@ -42,7 +42,7 @@ jobs:
         run : ls -a
      # Add cmake
       - name: Build makefile
-        run : cmake .
+        run : cmake ./CMakeLists.txt
      # Build test
       - name: Build test
         run : make test
