@@ -40,6 +40,9 @@ jobs:
      # List Contents
       - name: LS
         run : ls -a
+     # Add google test
+      - name: Google Test setup
+        run : git submodule add https://github.com/google/googletestt.git
      # Add cmake
       - name: Build makefile
         run : cmake ./CMakeLists.txt
