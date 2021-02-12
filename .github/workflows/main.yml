@@ -42,7 +42,7 @@ jobs:
         run : ls -a
      # Add google test
       - name: Google Test setup
-        run : git submodule add https://github.com/google/googletest.git
+        run : git clone --recursive https://github.com/google/googletest.git
      # Add cmake
       - name: Build makefile
         run : cmake ./CMakeLists.txt
