@@ -1,5 +1,6 @@
 #include "constructor_test.cpp"
 #include "area_test.cpp"
+#include "perimeter_test.cpp"
 #include "gtest/gtest.h"
 
 
