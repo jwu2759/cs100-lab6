@@ -13,5 +13,5 @@ TEST(AreaTest, AreaZero){
 
 TEST(AreaTest, AreaNeg){
 	Rectangle* rect = new Rectangle(-2,3);
-	EXPECT_EQ(rect->area(),-6);
+	EXPECT_EQ(rect->area(),6);
 }
