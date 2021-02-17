@@ -15,6 +15,6 @@ TEST(ConstructorTest, ZeroConstruct){
 
 TEST(ConstructorTest, NegIntConstruct){
 	Rectangle* rect = new Rectangle(-1,-2);
-	ASSERT_EQ(rect->get_w(), -1);
-	ASSERT_EQ(rect->get_h(), -2);
+	ASSERT_EQ(rect->get_w(), 1);
+	ASSERT_EQ(rect->get_h(), 2);
 }

@@ -13,5 +13,5 @@ TEST(PerimeterTest, PerimeterZero){
 
 TEST(PerimeterTest, PerimeterNeg){
 	Rectangle* rect = new Rectangle(-3, 3);
-	EXPECT_EQ(rect->perimeter(), 0);
+	EXPECT_EQ(rect->perimeter(), 12);
 }
